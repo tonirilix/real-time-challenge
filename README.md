@@ -26,6 +26,18 @@ The following are instructions for running the full project after everything is 
 3. Set users 2 and 3 on the other two windows without login
 4. Click on each login button so you can see concurrent users
 
+## Tests
+Client: 
+1. Go into client folder
+2. run ```npm test````
+Note: Specs were created by angular cli.
+
+Server: 
+1. Go into server folder
+2. run ```npm test````
+Note: Specs were created from scratch.
+
+
 ## Known issues
 
 1. Login validates but it doesn't shows an error message

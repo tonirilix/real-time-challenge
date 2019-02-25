@@ -56,14 +56,18 @@ POST http://localhost:3000/geo/locations
 BODY: ```{"latitude":42.356483,"longitude":-71.062016}```
 
 HEADERS: 
+
 Authorization: Bearer token
+
 Content-Type: application/json
 
 ### Get location history
 GET http://localhost:3000/users/{userId}/geo/locations
 
 HEADERS: 
+
 Authorization: Bearer token
+
 Content-Type: application/json
 
 

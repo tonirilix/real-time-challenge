@@ -5,7 +5,7 @@ Documentation and specific setup instructions can be found [here](https://github
 The following are instructions for running the full project after everything is properly setup.
 
 ## Demo
-![alt text](https://ucc3f1edf514b821895376dbf29a.previews.dropboxusercontent.com/p/orig/AAVrfXfOqlMKFskZk75AC-gGJ_0yh-TKlP-PuEi0x54cj0rq1RJaND7Z_bLOhHpNPm9Xk5a5iHRJxsonq8yjeplIshDHYNoyuxP-0TM3aQCLCMmTVsI9J9cHBMmZqvHcvNbZTlGlrbzTcZMd25PmZUlZkDDweeEfrMWvzyEH_lTNdT3-t4nqjad8yfyGdrtFmit2VsgD11s4ggXaFI1yyD82vJDHGx5PKpe9CXot0P0m-vSjLPKsST45MmbS9zVHXH7_kEyUmWLzYxY1xKqdHIoO6GHMUCDphqSuDR_v_hZwfepkG3-dguYgrPMUshYNHXc/p.gif?size_mode=5 "Demo")
+![Demo animation](https://lh3.googleusercontent.com/f5B_AXlG9n6OskMs36esDWxosk67LxAa3rd3Y9tHA3ZNctw16tHe8-mdVkyQGGs_f1Uc2cuSSw4Uyw=w2880-h1440-rw "Demo")
 
 ## Global Dependencies
 - Node 8.11.1 / Npm 5.6.0

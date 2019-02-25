@@ -9,7 +9,6 @@ export class PanelGuard implements CanActivate {
         route: ActivatedRouteSnapshot,
         state: RouterStateSnapshot
     ): boolean {
-        debugger;
         if (this.authService.isLoggedIn()) { return true; }
         this.router.navigate(['/signin']);
         return true;

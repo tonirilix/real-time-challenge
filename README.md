@@ -44,18 +44,22 @@ https://www.getpostman.com/collections/b699dfb15b23550b09fb
 
 ### Login
 
-POST http://localhost:3000/login 
+POST http://localhost:3000/login
+
 BODY: ```{"username": "pedro","password": "paramo"}```
 
 ### Update user location
 POST http://localhost:3000/geo/locations
+
 BODY: ```{"latitude":42.356483,"longitude":-71.062016}```
+
 HEADERS: 
 Authorization: Bearer token
 Content-Type: application/json
 
 ### Get location history
 GET http://localhost:3000/users/{userId}/geo/locations
+
 HEADERS: 
 Authorization: Bearer token
 Content-Type: application/json

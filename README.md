@@ -5,7 +5,7 @@ Documentation and specific setup instructions can be found [here](https://github
 The following are instructions for running the full project after everything is properly setup.
 
 ## Demo
-![Demo animation](https://lh3.googleusercontent.com/f5B_AXlG9n6OskMs36esDWxosk67LxAa3rd3Y9tHA3ZNctw16tHe8-mdVkyQGGs_f1Uc2cuSSw4Uyw=w2880-h1440-rw "Demo")
+![Demo animation](https://lh4.googleusercontent.com/WFggdcjtRYuHx9Vtq9oJQX3IIIKrTtZovuBsB3sJHR8mHGgG0n0rUSgALZ6SZXwCqtkMteoG2m3hQA=w2880-h1440-rw "Demo")
 
 ## Global Dependencies
 - Node 8.11.1 / Npm 5.6.0

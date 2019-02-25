@@ -1,0 +1,26 @@
+<particles [style]="myStyle" [width]="width" [height]="height" [params]="myParams"></particles>
+<section class="hero is-success is-fullheight">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <div class="column is-4 is-offset-4">
+        <h1 class="title">GBM Challenge</h1>
+        <div class="box">
+          <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+            <div class="field">
+              <div class="control">
+                <input formControlName="username" name="username" class="input is-medium" type="text" placeholder="Username" autofocus="">
+              </div>
+            </div>
+
+            <div class="field">
+              <div class="control">
+                <input formControlName="password" name="password" class="input is-medium" type="password" placeholder="Password">
+              </div>
+            </div>
+            <button class="button is-block is-primary is-medium is-fullwidth">Login</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

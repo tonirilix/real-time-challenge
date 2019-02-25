@@ -1,0 +1,17 @@
+<div class="container">
+  <div class="columns is-multiline is-mobile">
+    <div class="column is-2">
+      <strong>Name</strong>
+    </div>
+    <div class="column is-4">
+      <strong>Coordinates</strong>
+    </div>
+    <div class="column is-1">
+      <strong>Country</strong>
+    </div>
+    <div class="column is-5">
+      <strong>Last Update</strong>
+    </div>
+  </div>
+  <app-report-item [item]="info(user)" *ngFor="let user of ids"></app-report-item>
+</div>

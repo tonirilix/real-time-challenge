@@ -1,0 +1,12 @@
+:host{
+    display: block;
+    height: 50px;
+    line-height: 10px;
+}
+.columns {
+    border-bottom: 1px solid gray;
+    &.column:last-child{
+        border: none;
+    }
+//     padding-bottom: 10px;
+}

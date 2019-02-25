@@ -1,0 +1,7 @@
+.columns {
+    border-bottom: 1px solid gray;
+    &.column:last-child{
+        border: none;
+    }
+//     padding-bottom: 10px;
+}

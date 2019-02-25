@@ -57,7 +57,7 @@ BODY: ```{"latitude":42.356483,"longitude":-71.062016}```
 
 HEADERS: 
 
-Authorization: Bearer token
+Authorization: Bearer {token}
 
 Content-Type: application/json
 
@@ -66,7 +66,7 @@ GET http://localhost:3000/users/{userId}/geo/locations
 
 HEADERS: 
 
-Authorization: Bearer token
+Authorization: Bearer {token}
 
 Content-Type: application/json
 

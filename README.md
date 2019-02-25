@@ -29,12 +29,14 @@ The following are instructions for running the full project after everything is 
 ## Tests
 Client: 
 1. Go into client folder
-2. run ```npm test````
+2. run ```npm test```
+
 Note: Specs were created by angular cli.
 
 Server: 
 1. Go into server folder
-2. run ```npm test````
+2. run ```npm test```
+
 Note: Specs were created from scratch.
 
 ## Endpoints Info

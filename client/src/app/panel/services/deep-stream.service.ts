@@ -17,11 +17,7 @@ export interface IDeepstreamQuarantine {
   on(type: string, callback: (error: string, ...args: Array<any>) => void): void;
 }
 
-// @Injectable({
-//   providedIn: 'root'
-// })
 export class DeepStreamService {
-  private readonly dsHost = environment.dsHost;
   private readonly _ds: IDeepstreamQuarantine; // : deepstreamIO.deepstreamQuarantine;
 
   constructor(private endpoint: string) {

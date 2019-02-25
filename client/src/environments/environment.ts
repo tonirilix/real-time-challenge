@@ -4,8 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'http://localhost:3000/',
-  dsHost: '0.0.0.0:6020/deepstream',
+  apiUrl: 'http://localhost:3001/',
   dsConfig: {
     host: '0.0.0.0',
     port: 6020

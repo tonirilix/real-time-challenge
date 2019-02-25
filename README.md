@@ -1,7 +1,8 @@
 # real-time-challenge
 GBM Back-End Challenge
 
-Specific setup instructions can be found [here](https://github.com/tonirilix/node-great-again/wiki/Client-setup). The following are instructions for running the full project after everything is properly setup.
+Documentation and specific setup instructions can be found [here](https://github.com/tonirilix/node-great-again/wiki). Those are very important to follow before trying to run the project.
+The following are instructions for running the full project after everything is properly setup.
 
 ## Demo
 ![alt text](https://ucc3f1edf514b821895376dbf29a.previews.dropboxusercontent.com/p/orig/AAVrfXfOqlMKFskZk75AC-gGJ_0yh-TKlP-PuEi0x54cj0rq1RJaND7Z_bLOhHpNPm9Xk5a5iHRJxsonq8yjeplIshDHYNoyuxP-0TM3aQCLCMmTVsI9J9cHBMmZqvHcvNbZTlGlrbzTcZMd25PmZUlZkDDweeEfrMWvzyEH_lTNdT3-t4nqjad8yfyGdrtFmit2VsgD11s4ggXaFI1yyD82vJDHGx5PKpe9CXot0P0m-vSjLPKsST45MmbS9zVHXH7_kEyUmWLzYxY1xKqdHIoO6GHMUCDphqSuDR_v_hZwfepkG3-dguYgrPMUshYNHXc/p.gif?size_mode=5 "Demo")
@@ -28,5 +29,6 @@ Specific setup instructions can be found [here](https://github.com/tonirilix/nod
 ## Known issues
 
 1. Login validates but it doesn't shows an error message
-2. There are guards to validate session across urls but some unwanted behaviors could still happen.
-3. Deepstream socket keeps opened after logout
+2. There are guards to validate session across urls but some unwanted behaviors could still happen
+3. Deepstream socket keeps opened after logout and
+4. WS implementation still doesn't use jwt

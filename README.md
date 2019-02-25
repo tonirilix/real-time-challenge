@@ -1,7 +1,7 @@
 # real-time-challenge
 GBM Back-End Challenge
 
-Documentation and specific setup instructions can be found [here](https://github.com/tonirilix/node-great-again/wiki). Those are very important to follow before trying to run the project.
+Documentation and specific setup instructions can be found [here](https://github.com/tonirilix/real-time-challenge/wiki). Those are very important to follow before trying to run the project.
 The following are instructions for running the full project after everything is properly setup.
 
 ## Demo

@@ -26,6 +26,29 @@ The following are instructions for running the full project after everything is 
 3. Set users 2 and 3 on the other two windows without login
 4. Click on each login button so you can see concurrent users
 
+## Demo users
+User 1
+
+```
+username: pedro
+password: paramo
+role: admin
+```
+
+User 2
+```
+username: emmanuel
+password: deoca
+role: user
+```
+
+User3
+```
+username: juan
+password: delabarrera
+role: user
+```
+
 ## Tests
 Client: 
 1. Go into client folder

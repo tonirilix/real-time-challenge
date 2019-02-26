@@ -5,7 +5,7 @@ Documentation and specific setup instructions can be found [here](https://github
 The following are instructions for running the full project after everything is properly setup.
 
 ## Demo
-![Demo animation](https://lh4.googleusercontent.com/WFggdcjtRYuHx9Vtq9oJQX3IIIKrTtZovuBsB3sJHR8mHGgG0n0rUSgALZ6SZXwCqtkMteoG2m3hQA=w2880-h1440-rw "Demo")
+![Demo animation](https://s3.amazonaws.com/gbm-realtime2/gbm_demo.gif "Demo")
 
 ## Global Dependencies
 - Node 8.11.1 / Npm 5.6.0

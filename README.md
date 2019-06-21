@@ -1,5 +1,5 @@
 # real-time-challenge
-GBM Back-End Challenge
+Realtime Challenge
 
 Documentation and specific setup instructions can be found [here](https://github.com/tonirilix/real-time-challenge/wiki). Those are very important to follow before trying to run the project.
 The following are instructions for running the full project after everything is properly setup.
